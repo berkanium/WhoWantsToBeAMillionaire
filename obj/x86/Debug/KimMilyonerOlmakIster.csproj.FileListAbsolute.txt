@@ -1,0 +1,29 @@
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Baslangic.resources
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Oyun.resources
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Furkan\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.exe
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Baslangic.resources
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Oyun.resources
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\YAZILIM UYGULAMALARI VE PROJELER\Proje Programlar\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.csprojResolveAssemblyReference.cache
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Baslangic.resources
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Oyun.resources
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.Properties.Resources.resources
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.csproj.GenerateResource.Cache
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.exe
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\bin\Debug\KimMilyonerOlmakIster.pdb
+C:\Users\Tuğçe\Desktop\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.OyunGiris.resources
+C:\Users\xbrkn\Desktop\BERKAN YILMAZ\C#\C# PROGRAMLAR\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.exe
+C:\Users\xbrkn\Desktop\BERKAN YILMAZ\C#\C# PROGRAMLAR\KimMilyonerOlmakIster\KimMilyonerOlmakIster\obj\x86\Debug\KimMilyonerOlmakIster.pdb
